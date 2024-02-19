@@ -18,7 +18,11 @@ I am 19 years old, and I'm French.
   And some other langages 
 
 # 📂 Projects
+
+This part is dedicated for all my project (alone or university's project)
+
 # wack a mole
-![alt text](https://cdn.discordapp.com/attachments/1183712504141074463/1207604980681547796/image.png?ex=65e040c7&is=65cdcbc7&hm=feecb56df75b3b3575724a0f303bcc78d9e42db12b4a7448383b596337a4011c&)
 This wack-a-mole is a personnal project and not an university project, this project permitted to involve my skills on development web (HTML/CSS/JS)
+This project is a game on which we need to hit the moles without hitting the hole.
+![alt text](https://cdn.discordapp.com/attachments/1183712504141074463/1207604980681547796/image.png?ex=65e040c7&is=65cdcbc7&hm=feecb56df75b3b3575724a0f303bcc78d9e42db12b4a7448383b596337a4011c&)
 
