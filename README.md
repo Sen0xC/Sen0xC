@@ -1,5 +1,5 @@
 # **👋 Hey 👋**
-![alt text](https://cdn.discordapp.com/attachments/1183712504141074463/1183712516757540924/image.png?ex=65895530&is=6576e030&hm=21268d103c2d08042254ee203acf88a4db07df843edcf2fe3c8c83d799a4d4ba&)
+![alt text](https://drive.google.com/file/d/12_iOMopN8Th4yREEfv7H9dmc2JeV4Te5/view?usp=drive_link)
 
 
 # 👀 Who I am ?
@@ -24,5 +24,5 @@ This part is dedicated for all my project (alone or university's project)
 # wack a mole
 This wack-a-mole is a personnal project and not an university project, this project permitted to involve my skills on development web (HTML/CSS/JS)
 This project is a game on which we need to hit the moles without hitting the hole.
-![alt text](https://cdn.discordapp.com/attachments/1183712504141074463/1207604980681547796/image.png?ex=65e040c7&is=65cdcbc7&hm=feecb56df75b3b3575724a0f303bcc78d9e42db12b4a7448383b596337a4011c&)
+![alt text](https://drive.google.com/file/d/1IIpPdXQX8CZbS7tT2HUsI6eiqpFs2Xs6/view?usp=drive_link)
 
