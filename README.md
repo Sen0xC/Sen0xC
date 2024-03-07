@@ -1,5 +1,5 @@
 # **👋 Hey 👋**
-![alt text](https://drive.google.com/file/d/12_iOMopN8Th4yREEfv7H9dmc2JeV4Te5/view?usp=drive_link)
+![alt text](https://ibb.co/DQXJpfJ)
 
 
 # 👀 Who I am ?
@@ -24,5 +24,5 @@ This part is dedicated for all my project (alone or university's project)
 # wack a mole
 This wack-a-mole is a personnal project and not an university project, this project permitted to involve my skills on development web (HTML/CSS/JS)
 This project is a game on which we need to hit the moles without hitting the hole.
-![alt text](https://drive.google.com/file/d/1IIpPdXQX8CZbS7tT2HUsI6eiqpFs2Xs6/view?usp=drive_link)
+![alt text](https://ibb.co/LZ6QRhz)
 
