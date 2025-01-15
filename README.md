@@ -9,13 +9,20 @@ I am 19 years old, and I'm French.
 
 
 ## 💻 Skills
-- Html/css
-- SQL and other langages of data science
-- Java/JavaFX
-- C/C++
-- python
-- javaScript
-  And some other langages 
+# Domaines d'Application et Technologies Associées
+
+| Domaine               | Technologies/Langages         |
+|-----------------------|-------------------------------|
+| **Front-end**          | HTML, CSS, JavaScript, TypeScript, Angular, React, Vue.js |
+| **Back-end**           | JavaScript (Node.js), Python (Django, Flask), PHP, Java, C#, Ruby (Ruby on Rails), Go, Kotlin, C++ |
+| **Data Science**       | Python (Pandas, NumPy, Scikit-learn), R, SQL |
+| **Machine Learning**   | Python (TensorFlow, PyTorch), R |
+| **Développement Mobile**| Java (Android), Swift (iOS), Kotlin (Android), Flutter (Dart) |
+| **Jeux Vidéo**         | C++, C#, Unity, Unreal Engine |
+| **Systèmes embarqués** | C, C++, Rust |
+| **Bases de Données**   | SQL, NoSQL (MongoDB, Cassandra), PostgreSQL, MySQL |
+| **Systèmes Distribués**| Go, Python, Java |
+
 
 # 📂 Projects
 
