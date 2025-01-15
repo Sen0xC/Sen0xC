@@ -23,7 +23,7 @@ I am 19 years old, and I'm French.
 | **Bases de Données**   | SQL, NoSQL (MongoDB, Cassandra), PostgreSQL, MySQL |
 | **Systèmes Distribués**| Go, Python, Java |
 
-#Soft skills
+# Soft skills
 - Travail en équipe
 - Gestion du temps
 - Ecoute active
