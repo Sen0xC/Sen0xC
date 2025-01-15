@@ -49,7 +49,7 @@ our bot was like a player which play randomly, before the bot play he verifi if 
 
 ## Contact
 
-<a href="mailto:votreadresseemail@example.com" style="text-decoration:none;">
+<a href="mailto:romerocyril8@gmail.com" style="text-decoration:none;">
   <div style="width:200px; height:50px; background-color:#FF5733; color:white; font-weight:bold; font-size:18px; text-align:center; line-height:50px; border-radius:10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     Contactez-moi
   </div>
